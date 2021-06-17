@@ -21,9 +21,9 @@ The grep output still keep its original syntax for better reading.
 
 ### Functions
 
-	- Grep current file/view for selected text.
-  - Grep current file/view based on string in the sublime's "find input-bar"
-  - Grep current file/view based on regular express in the sublime's "find input-bar"
+- Grep current file/view for selected text.
+- Grep current file/view based on string in the sublime's "find input-bar"
+- Grep current file/view based on regular express in the sublime's "find input-bar"
 
 ![grep](screenshots/showtime.gif?raw=true)
 
