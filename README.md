@@ -1,10 +1,14 @@
 ## SubGrep is a Sublime Grep plugin
 
-Greps contents of current file or view based on text, current selection text or regular express.
-The grep output still keep its original syntax for better reading.
+The SubGrep can grep or trim lines by keyword or regular expression. The grep output
+still keep origin syntax for better reading.
 
-### Quick Start
-- Clone/download plugin to your SublimeText User folder under SubGrep
+### Installation by sublime's package control
+
+- ctrl-shift-P brings up command dialog 
+- input: "install package"
+
+Or clone/ download this source to the SublimeText package folder.
 
 ### Hotkeys
 `Preferences: Package Settings > SubGrep > Key Bindings – User`:
@@ -21,9 +25,11 @@ The grep output still keep its original syntax for better reading.
 
 ### Functions
 
-- Grep current file/view for selected text.
-- Grep current file/view based on string in the sublime's "find input-bar"
-- Grep current file/view based on regular express in the sublime's "find input-bar"
+- Grep lines containing current selected text 
+- Grep lines containing text in sublime's "find input-bar"
+- Grep lines matches regular expression in sublime's "find input-bar"
+- Trim lines containing selected text
+- Trim lines 
 
 ![grep](screenshots/showtime.gif?raw=true)
 

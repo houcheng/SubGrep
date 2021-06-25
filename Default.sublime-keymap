@@ -2,5 +2,9 @@
   {
     "keys": ["shift+control+g"],
     "command": "sub_grep"
+  },
+  {
+    "keys": ["shift+control+h"],
+    "command": "sub_grep_trim"
   }
 ]
