@@ -1,10 +1,10 @@
 [
   {
-    "keys": ["shift+control+g"],
+    "keys": ["shift+ctrl+g"],
     "command": "sub_grep"
   },
   {
-    "keys": ["shift+control+h"],
+    "keys": ["shift+ctrl+h"],
     "command": "sub_grep_trim"
   }
 ]

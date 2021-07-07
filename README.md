@@ -18,7 +18,7 @@ Or clone/ download this source to the SublimeText package folder.
 
 ```
   {
-    "keys": ["shift+control+g"],
+    "keys": ["shift+ctrl+g"],
     "command": "sub_grep"
   }
 ```
