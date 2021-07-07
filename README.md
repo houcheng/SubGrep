@@ -23,6 +23,15 @@ Or clone/ download this source to the SublimeText package folder.
   }
 ```
 
+Add this hot-key for triming feature:
+
+```
+  {
+    "keys": ["shift+ctrl+h"],
+    "command": "sub_grep_trim"
+  }
+```
+
 ### Functions
 
 - Grep lines containing current selected text 
